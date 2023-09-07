@@ -1,0 +1,17 @@
+.Iconheading {
+  background: #F2F5FF;
+  display: flex;
+  flex-direction: row;
+}
+
+.reactangle-heading {
+  color: var(--font-color, #333);
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.reactangle-para {
+  color: var(--font-color, #333);
+  font-size: 16px;
+  font-weight: 400;
+}

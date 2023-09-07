@@ -1,0 +1,26 @@
+.header {
+  background: #fff;
+}
+
+.header-logo {
+  color: #054c73;
+  font-family: Montserrat;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.header-navbar{
+  display: flex;
+  justify-content: space-around;
+}
+
+.header-link {
+  color: var(--font-color, #333);
+  font-family: Montserrat;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}

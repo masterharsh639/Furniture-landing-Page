@@ -1,0 +1,26 @@
+.detail-heading {
+  color: var(--font-color, #333);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 3px;
+}
+
+.detail-title {
+  color: var(--primary-color, #054c73);
+  font-size: 52px;
+  font-weight: 700;
+  line-height: 65px; /* 125% */
+}
+
+.cardDetails {
+  width: 643px;
+  height: 443px;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: space-between;
+  border-radius: 10px;
+  background: #dfe9f4;
+  margin-right: 2rem;
+  padding: 2rem;
+}
