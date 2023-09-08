@@ -1,0 +1,18 @@
+.mailing-section {
+  background: #f2f5ff;
+}
+
+.mailing-text-section {
+  width: 514px;
+}
+
+.formfeild {
+  width: 486px;
+  height: 50px;
+  flex-shrink: 0;
+}
+
+
+.formfield-section{
+  padding: 4rem 0;
+}

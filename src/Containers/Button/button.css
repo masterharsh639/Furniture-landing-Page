@@ -1,14 +1,11 @@
- .button{
+.button {
   display: inline-flex;
-  padding: 5px 72px;
-  align-items: flex-start;
-  gap: 10px;
-  border-radius: 50px;
   background: var(--primary-color, #054c73);
+  padding: 0rem 2rem;
 }
 
-
-.text{
+.text {
   color: #fff;
   font-size: 1rem;
+  text-align: center;
 }
