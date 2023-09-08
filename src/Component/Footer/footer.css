@@ -1,0 +1,22 @@
+.footer-section {
+  background: #03344f;
+}
+
+.text-1 {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.text-para {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 35px;
+}
+
+
+.image-container{
+  display: flex;
+  justify-content: space-between;
+}
