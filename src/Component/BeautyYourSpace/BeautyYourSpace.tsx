@@ -1,6 +1,5 @@
 import Grid from "@mui/material/Grid";
 import "./beautyyourspace.css";
-import Heading from "../../Containers/PremiumHeading/Heading";
 import Button from "../../Containers/Button/Button";
 import ecllipse from "../../assests/Ellipse.png";
 import girlImage from "../../assests/girlimage.png";

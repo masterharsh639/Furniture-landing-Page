@@ -14,11 +14,11 @@ function App() {
       <Header />
       <HeroSection />
       <RectangleComponent />
-      <BeautyYourSpace/>
-      {/* <Inspiration /> */}
+      <Inspiration />
+      <BeautyYourSpace />
       <BrowseRange />
-      <MailingSection/>
-      <Footer/>
+      <MailingSection />
+      <Footer />
     </div>
   );
 }
