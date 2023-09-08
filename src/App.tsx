@@ -1,4 +1,5 @@
 import "./App.css";
+import BeautyYourSpace from "./Component/BeautyYourSpace/BeautyYourSpace";
 import BrowseRange from "./Component/BrowseRange/BrowseRange";
 import Footer from "./Component/Footer/Footer";
 import Header from "./Component/HeaderSection/Header";
@@ -13,6 +14,7 @@ function App() {
       <Header />
       <HeroSection />
       <RectangleComponent />
+      <BeautyYourSpace/>
       {/* <Inspiration /> */}
       <BrowseRange />
       <MailingSection/>

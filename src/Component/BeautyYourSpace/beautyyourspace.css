@@ -1,0 +1,25 @@
+.beauty-section {
+  background: #f2f5ff;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 4rem
+}
+
+.girlImage {
+  border-top-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  height: 550px;
+}
+
+.beauty-heading {
+  color: var(--font-color, #333);
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.beauty-para {
+  color: var(--font-color-1, #666);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 39px;
+}
