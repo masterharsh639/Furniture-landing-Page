@@ -3,6 +3,8 @@ import IconHeading from "../Heading/IconHeading";
 import logo1 from "../../assests/Group2.svg";
 import logo2 from "../../assests/Group.svg";
 import logo3 from "../../assests/shield.svg";
+import './rectanglecomponent.css';
+
 
 const RectangleComponent = () => {
   return (
