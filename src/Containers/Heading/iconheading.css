@@ -1,5 +1,5 @@
 .Iconheading {
-  background: #F2F5FF;
+  background: #f2f5ff;
   display: flex;
   flex-direction: row;
 }
@@ -14,4 +14,13 @@
   color: var(--font-color, #333);
   font-size: 16px;
   font-weight: 400;
+}
+
+.icon-section {
+  display: flex;
+  align-items: center;
+}
+
+.text-section{
+  margin-left: 2rem !important;
 }
