@@ -13,7 +13,7 @@ const BrowseRange = () => {
           paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
         />
       </Grid>
-      <Grid xs={12} display={"flex"} justifyContent={"space-between"} className="page-section" >
+      <Grid xs={12}  className="page-section image-section" >
         <Grid xs={3}>
           <img src={image99} alt="image99" />
         </Grid>

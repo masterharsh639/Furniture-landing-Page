@@ -3,3 +3,10 @@
   flex-direction: row;
   justify-content: space-evenly;
 }
+
+@media (min-width:320px) and (max-width:480px){
+  .inspiration-image{
+    flex-direction: column !important; 
+    align-items: center;
+  } 
+}

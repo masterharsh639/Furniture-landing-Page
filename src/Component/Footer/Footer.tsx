@@ -8,17 +8,17 @@ import image98 from "../../assests/image98.png";
 const Footer = () => {
   return (
     <Grid container className="footer-section page-section">
-      <Grid item xs={4} className="text-1 basic-css">
+      <Grid item xs={12} sm={4} md={4} className="text-1 basic-css">
         Beauty Care
       </Grid>
-      <Grid item xs={8} className="text-1 basic-css">
+      <Grid item xs={12} sm={8} md={8} className="text-1 basic-css">
         Instagram Shop
       </Grid>
-      <Grid xs={4} className="basic-css text-para">
+      <Grid xs={12} sm={4} md={4} className="basic-css text-para">
         Do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim
         veniam,quis nostrud exercitation ullamco laboris.
       </Grid>
-      <Grid xs={8} className="image-container">
+      <Grid xs={12} sm={8} md={8} className="image-container">
         <p>
           <img src={image94} alt="" />
         </p>

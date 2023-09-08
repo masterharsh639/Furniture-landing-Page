@@ -9,10 +9,7 @@ import './rectanglecomponent.css';
 const RectangleComponent = () => {
   return (
     <Grid
-      className="page-section iconHeading"
-      display={"flex"}
-      justifyContent={"space-between"}
-      flexDirection={"row"}
+      className="page-section iconHeading" xs={12}
     >
       <Grid>
         <IconHeading

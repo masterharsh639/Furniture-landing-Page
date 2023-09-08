@@ -1,0 +1,11 @@
+.image-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .image-section {
+    flex-direction: column !important;
+  }
+}

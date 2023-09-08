@@ -12,7 +12,13 @@
   flex-shrink: 0;
 }
 
-
-.formfield-section{
+.formfield-section {
   padding: 4rem 0;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .formfeild {
+    width: 15rem;
+    height: 3.6rem;
+  }
 }
