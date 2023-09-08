@@ -1,6 +1,5 @@
 import Grid from "@mui/material/Grid";
 import "./footer.css";
-
 import image94 from "../../assests/image94.png";
 import image95 from "../../assests/image95.png";
 import image96 from "../../assests/image96.png";
@@ -21,7 +20,7 @@ const Footer = () => {
       </Grid>
       <Grid xs={8} className="image-container">
         <p>
-          <img src={image95} alt="" />
+          <img src={image94} alt="" />
         </p>
         <p>
           <img src={image95} alt="" />
@@ -33,7 +32,7 @@ const Footer = () => {
           <img src={image98} alt="" />
         </p>
       </Grid>
-      <Grid xs={4} className="text-1 basic-css">
+      <Grid xs={12} className="text-1 basic-css">
         Follow Us
       </Grid>
     </Grid>
